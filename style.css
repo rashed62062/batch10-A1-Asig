@@ -301,3 +301,27 @@ border-top: 20px;
  width: 100%;
  margin: 10px;
 }
+   /* footer end  */
+
+.name{
+  display: flex;
+  justify-content: center;
+  text-align: end;
+}
+
+/* .social-icons {
+  width: 400px;
+  margin: 0 auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  display: flex;
+  justify-content: space-evenly; 
+}
+  */
+.name{
+  height: 100px;
+  width: 1300px;
+  border: 2px solid red;
+  text-align: center;
+
+}
