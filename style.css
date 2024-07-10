@@ -264,3 +264,40 @@
 .container p{
   color: #0D1321;
 }
+/* input style */
+.input{
+  border: 2px solid red;
+  height: 200px;
+  margin-bottom: 20px;
+  background-image: url(./assets/handshake.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: overlay;
+ margin: 0px 20px 10px;
+ border-radius: 16px;
+background: rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),url(Email);
+}
+.input .text h1 {
+   color: #FFFFFF;
+   text-align: center;
+   margin-top: 10px;
+  
+}
+.input .text p{
+  color: #FFFFFF;
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 5px;
+
+}
+.input-section{
+display: flex;
+ box-sizing: border-box;
+/* border: 1px solid rgba(13, 19, 33, 0.15); */
+border-radius: 8px;
+justify-content: center;
+border-top: 20px;
+ width: 100%;
+ margin: 10px;
+}
